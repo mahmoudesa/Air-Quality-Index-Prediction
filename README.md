@@ -1,4 +1,4 @@
-# Air-Qyality-Index-Prediction
+# Air-Quality-Index-Prediction
 
 ```
 In the past few years, the problem of air pollution in the United States has been increasing for several factors such as the damage caused by the ozone hole and the increase in the density of harmful particles from the air such as carbon monoxide, nitrogen dioxide, carbon dioxide and fine particles, so the United States is keen to study the level of air quality Throughout the day by air quality index, AQI is the primary way to measure the current quality of the air. AQI values range from 0-500 with 0 being perfectly healthy and 500 being extremely hazardous. This issue take a lot of time during all the day to measure, through this project will study the probability of prediction of air quality index depend on old measurement during last forty years to save time and cost.
